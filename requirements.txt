@@ -1,0 +1,12 @@
+Flask
+tensorflow
+numpy
+Pillow
+opencv-python
+os-sys
+matplotlib
+pickle5
+scikit-learn
+keras
+random2
+pandas
