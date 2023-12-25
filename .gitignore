@@ -1,6 +1,5 @@
 venv
 __pycache__
-Img_Classification.py
 KNN_model.sav
 American Sign Language Digits Dataset
 digitSignLanguage.h5
